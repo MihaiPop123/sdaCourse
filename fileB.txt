@@ -1,1 +1,1 @@
-feature b does something
+feature b does something new now
